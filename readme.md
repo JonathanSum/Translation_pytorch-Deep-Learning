@@ -1,1 +1,1 @@
-Place for translating the pytorch deep learning from nyu
+Place for translating the pytorch deep learning for NYU
